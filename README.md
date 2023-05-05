@@ -7,12 +7,12 @@
 
 # All features
 - Common features
-  -- STM32 microcontroller in an LQFP64 or LQFP48 package
-  -- 1 user LED shared with ARDUINO®
-  -- 1 user and 1 reset push-buttons
+-- STM32 microcontroller in an LQFP64 or LQFP48 package
+-- 1 user LED shared with ARDUINO®
+-- 1 user and 1 reset push-buttons
 -- 32.768 kHz crystal oscillator
 - Board connectors:
--- ARDUINO® Uno V3 expansion connector
+- -- ARDUINO® Uno V3 expansion connector
 -- ST morpho extension pin headers for full access to all STM32 I/Os
 -- Flexible power-supply options: ST-LINK USB VBUS or external sources
 -- On-board ST-LINK debugger/programmer with USB re-enumeration capability: mass storage, Virtual COM port, and debug port
