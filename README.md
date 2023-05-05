@@ -2,6 +2,9 @@
 - Modelo: NUCLEO-F446RE
 - Processor: STM32F446RE MCU, Arm® Cortex®-M4 core at 180 Mhz.
 - Link: https://www.st.com/en/evaluation-tools/nucleo-f446re.html
+- Course: https://www.udemy.com/course/embedded-systems-bare-metal-programming/?start=720#overview
+
+
 # All features
 - Common features
 --STM32 microcontroller in an LQFP64 or LQFP48 package
