@@ -1,5 +1,6 @@
 # STM32
-- Modelo: NUCLEO-F446RE, Arm® Cortex®-M4 core at 180 Mhz.
+- Modelo: NUCLEO-F446RE
+- Processor: STM32F446RE MCU, Arm® Cortex®-M4 core at 180 Mhz.
 - Link: https://www.st.com/en/evaluation-tools/nucleo-f446re.html
 # All features
 - Common features
