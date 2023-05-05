@@ -28,8 +28,8 @@
 -- USB Type-C® user connector
 -- MIPI® debug connector
 
-## Plan de desarrollo
-# Dia1
+# Plan de desarrollo
+## Dia1
 - Recursos Iniciales
 - Cuenta Udemy
 - Plataforma de Slack: https://arm-hablar.slack.com/join/shared_invite/zt-1u4l3fapw-wJwJlJCWuFDt8X0lclNJlw 
