@@ -4,7 +4,7 @@
 - https://www.influxdata.com/
 - https://grafana.com/
 - OTA
--https://www.qt.io/
+- https://www.qt.io/
 
 # STM32
 - Modelo: NUCLEO-F446RE
