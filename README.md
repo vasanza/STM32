@@ -43,4 +43,10 @@
 - Plataforma de Slack: https://arm-hablar.slack.com/join/shared_invite/zt-1u4l3fapw-wJwJlJCWuFDt8X0lclNJlw 
 - IDE: STM32CubeIDE 1.11.2
 ## Dia2
--Example # 1 GPIO Led
+- Example # 1 GPIO Led
+-Detail:
+--UART1 TX PA9
+--UART1 RX PA10
+- Process
+-- Clock Source: AHB1, APB1
+-- GPIOEN, AF7, UARTEN
