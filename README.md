@@ -51,7 +51,8 @@
 -- Clock Source: AHB1, APB1
 -- GPIOEN, AF7, UARTEN
 - Code:
-- #include <stdint.h>
+//
+#include <stdint.h>
 #include "stm32f4xx.h"
 
 #define GPIOAEN (1U<<0)
@@ -131,4 +132,4 @@ static uint16_t compute_uart_bd(uint32_t PeriphClk, uint32_t Baudrate)
 {
 	return((PeriphClk + (Baudrate/2U))/Baudrate);
 }
-
+//
