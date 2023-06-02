@@ -36,11 +36,11 @@
 -- USB Type-C® user connector
 -- MIPI® debug connector
 
-# Plan de desarrollo
-## Dia1
+# Development Plan
+## Day1
 - Recursos Iniciales
 - IDE: STM32CubeIDE 1.11.2
-## Dia2 (Comunicacion UART)
+## Day2 (UART Comunication)
 - Example # 1 UART
 -Detail:
 --UART1 TX PA9
@@ -48,3 +48,10 @@
 - Process
 -- Clock Source: AHB1, APB1
 -- GPIOEN, AF7, UARTEN
+## Day3 ( GPIO )
+- Example # 2 GPIO
+-Detail:
+--Led blink PA5
+- Process
+-- Clock Source: AHB1
+-- GPIOEN, MODER, ODR
