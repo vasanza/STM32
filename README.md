@@ -50,7 +50,7 @@
 -- GPIOEN, AF7, UARTEN
 ## Day3 ( GPIO )
 - Example # 2 GPIO
--Detail:
+- Detail:
 --Led blink PA5
 - Process
 -- Clock Source: AHB1
