@@ -42,7 +42,7 @@
 - IDE: STM32CubeIDE 1.11.2
 ## Day2 (UART Comunication)
 - Example # 1 UART
--Detail:
+- Detail:
 --UART1 TX PA9
 --UART1 RX PA10
 - Process
