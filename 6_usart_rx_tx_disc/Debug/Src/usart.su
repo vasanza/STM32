@@ -1,0 +1,5 @@
+../Src/usart.c:31:6:uart1_tx_init	8	static
+../Src/usart.c:73:6:uart1_write	16	static
+../Src/usart.c:80:6:uart1_read	4	static
+../Src/usart.c:89:13:uart_set_baudrate	24	static
+../Src/usart.c:93:17:compute_uart_bd	16	static
