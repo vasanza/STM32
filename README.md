@@ -58,8 +58,14 @@
 ## Day4 ( ADC )
 - Example # 3 ADC
 - Detail:
---ADC PXX
+--ADC PA2
+- Process
+-- Clock Source: AHB1ENR APB2ENR
+-- GPIOEN, MODER, CR2
+## Day5 ( Timer )
+- Example # 4 Timer
+- Detail:
+--Timer Registers
 - Process
 -- Clock Source: AHB1
 -- GPIOEN, MODER, ODR
---Actually in process...
