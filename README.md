@@ -36,11 +36,13 @@
 -- USB Type-C® user connector
 -- MIPI® debug connector
 
+![WhatsApp Image 2023-07-20 at 21 34 34](https://github.com/vasanza/STM32/assets/12642226/403a2232-6ea6-4c9a-b0f1-54bdc53203a7)
+
 # Development Plan
 ## Day1
 - Recursos Iniciales
 - IDE: STM32CubeIDE 1.11.2
-## Day2 (UART Comunication)
+## UART Comunication
 - Example # 1 UART
 - Detail:
 --UART1 TX PA9
@@ -48,21 +50,20 @@
 - Process
 -- Clock Source: AHB1, APB1
 -- GPIOEN, AF7, UARTEN
-## Day3 ( GPIO )
+## GPIO
 - Example # 2 GPIO
 - Detail:
 --Led blink PA5
 - Process
 -- Clock Source: AHB1
 -- GPIOEN, MODER, ODR
-## Day4 ( ADC )
-- Example # 3 ADC
-- Detail:
---ADC PA2
-- Process
--- Clock Source: AHB1ENR APB2ENR
--- GPIOEN, MODER, CR2
-## Day5 ( Timer )
+## ADC
+- Example # 8 ADC
+- Detail: Use of ADC register for digitalization acquisition of analog signals.
+- Development board: STM32F446RE
+- Processor: Arm® Cortex®-M4 32-bit--ADC PA2
+- Link: https://github.com/vasanza/STM32/tree/main/8_adc_nucleo_cgpt
+## Timer
 - Example # 4 Timer
 - Detail:
 --Timer Registers
