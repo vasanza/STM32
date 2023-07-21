@@ -1,0 +1,4 @@
+../Src/main.c:31:5:main	8	static
+../Src/main.c:45:6:pa1_adc_init	4	static
+../Src/main.c:69:6:start_convertion	4	static
+../Src/main.c:75:10:adc_read	4	static
