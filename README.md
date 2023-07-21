@@ -1,4 +1,4 @@
-# Nest courses
+# Next courses
 - https://www.docker.com/
 - https://www.jenkins.io/
 - https://www.influxdata.com/
