@@ -1,3 +1,7 @@
+# (Arm Cortex-M4) USART serial communication
+✅ Developed by: [John Rivera Burgos](https://www.linkedin.com/in/john-rivera-burgos-bb703079/)
+
+
 # Práctica comunicacion serial USART
 La práctica de comunicación serial USART con el modelo NUCLEO-F446RE tiene como objetivo establecer una comunicación bidireccional entre el microcontrolador STM32F446RE y otro dispositivo externo mediante el protocolo USART (Universal Synchronous/Asynchronous Receiver/Transmitter). El STM32F446RE es un microcontrolador avanzado basado en el núcleo Arm® Cortex®-M4 que opera a una frecuencia de 180 MHz, lo que le permite realizar tareas de procesamiento de datos de manera rápida y eficiente.
 Para llevar a cabo la práctica, se conectarán los pines de transmisión (TX) y recepción (RX) del USART del microcontrolador a los correspondientes pines de comunicación serial del dispositivo externo. Además, se configurarán los parámetros de comunicación serial, como la velocidad de transmisión, el formato de datos (número de bits, paridad y bits de parada) y el modo de transmisión (síncrono o asíncrono), según las necesidades de la aplicación.
