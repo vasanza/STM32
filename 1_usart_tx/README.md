@@ -15,7 +15,6 @@ La práctica de comunicación serial USART es fundamental en aplicaciones donde 
 ## Incorporar las achivos .h de los devices y los drivers
 ![uart4](https://github.com/vasanza/STM32/assets/12642226/61b44ee5-37c9-46fd-9eb7-1eba41dea17b)
 ## Escribir el codigo a utilizar
-<script src="https://gist.github.com/vasanza/95d2f84411671461a292e2c9bcd10f94.js"></script>
 ![uart](https://github.com/vasanza/STM32/assets/12642226/d03c0476-546a-4f85-8dc6-1f015bf0130c)
 ## Compilar
 ![uart5](https://github.com/vasanza/STM32/assets/12642226/d5026045-6802-4261-adee-c62b8f50cf1e)
