@@ -10,6 +10,8 @@
 ## ⭐ When using this resource, please cite the original publication:
 - [Avilés-Mendoza, K., Gaibor-León, N. G., Asanza, V., Lorente-Leyva, L. L., & Peluffo-Ordóñez, D. H. (2023). A 3D Printed, Bionic Hand Powered by EMG Signals and Controlled by an Online Neural Network. Biomimetics, 8(2), 255.](https://www.mdpi.com/2313-7673/8/2/255)
 
+![nucleo](https://github.com/vasanza/STM32/assets/12642226/5645a53e-c9e9-49b1-9f98-01fbad3fd3ec)
+
 ## Práctica comunicacion serial USART
 La práctica de comunicación serial USART con el modelo NUCLEO-F446RE tiene como objetivo establecer una comunicación bidireccional entre el microcontrolador STM32F446RE y otro dispositivo externo mediante el protocolo USART (Universal Synchronous/Asynchronous Receiver/Transmitter). El STM32F446RE es un microcontrolador avanzado basado en el núcleo Arm® Cortex®-M4 que opera a una frecuencia de 180 MHz, lo que le permite realizar tareas de procesamiento de datos de manera rápida y eficiente.
 Para llevar a cabo la práctica, se conectarán los pines de transmisión (TX) y recepción (RX) del USART del microcontrolador a los correspondientes pines de comunicación serial del dispositivo externo. Además, se configurarán los parámetros de comunicación serial, como la velocidad de transmisión, el formato de datos (número de bits, paridad y bits de parada) y el modo de transmisión (síncrono o asíncrono), según las necesidades de la aplicación.
