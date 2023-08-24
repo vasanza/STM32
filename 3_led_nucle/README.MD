@@ -27,8 +27,8 @@ La práctica de comunicación serial USART es fundamental en aplicaciones donde 
 ![uart4](https://github.com/vasanza/STM32/assets/12642226/61b44ee5-37c9-46fd-9eb7-1eba41dea17b)
 ## Escribir el codigo a utilizar
 ![uart](https://github.com/vasanza/STM32/assets/12642226/d03c0476-546a-4f85-8dc6-1f015bf0130c)
+
 ## Compilar
 ![uart5](https://github.com/vasanza/STM32/assets/12642226/d5026045-6802-4261-adee-c62b8f50cf1e)
-## Pruebas de envio de datos
-![uart6](https://github.com/vasanza/STM32/assets/12642226/dd3a4f6c-4212-45d1-84b7-67b4cf61ac5b)
+
 
