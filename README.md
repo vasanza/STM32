@@ -19,22 +19,22 @@
 - 1 user and 1 reset push-buttons
 - 32.768 kHz crystal oscillator
 - Board connectors:
-- -- ARDUINO® Uno V3 expansion connector
--- ST morpho extension pin headers for full access to all STM32 I/Os
--- Flexible power-supply options: ST-LINK USB VBUS or external sources
--- On-board ST-LINK debugger/programmer with USB re-enumeration capability: mass storage, Virtual COM port, and debug port
--- Comprehensive free software libraries and examples available with the STM32Cube MCU Package
--- Support of a wide choice of Integrated Development Environments (IDEs) including IAR Embedded Workbench®, MDK-ARM, and STM32CubeIDE
+- ARDUINO® Uno V3 expansion connector
+- ST morpho extension pin headers for full access to all STM32 I/Os
+- Flexible power-supply options: ST-LINK USB VBUS or external sources
+- On-board ST-LINK debugger/programmer with USB re-enumeration capability: mass storage, Virtual COM port, and debug port
+- Comprehensive free software libraries and examples available with the STM32Cube MCU Package
+- Support of a wide choice of Integrated Development Environments (IDEs) including IAR Embedded Workbench®, MDK-ARM, and STM32CubeIDE
 - Board-specific features
--- External SMPS to generate Vcore logic supply
--- 24 MHz or 48 MHz HSE
--- User USB Device full speed, or USB SNK/UFP full speed
--- Cryptography
+- External SMPS to generate Vcore logic supply
+- 24 MHz or 48 MHz HSE
+- User USB Device full speed, or USB SNK/UFP full speed
+- Cryptography
 - Board connectors:
--- External SMPS experimentation dedicated connector
--- USB Type-C®, Micro-B, or Mini-B connector for the ST-LINK
--- USB Type-C® user connector
--- MIPI® debug connector
+- External SMPS experimentation dedicated connector
+- USB Type-C®, Micro-B, or Mini-B connector for the ST-LINK
+- USB Type-C® user connector
+- MIPI® debug connector
 
 ![WhatsApp Image 2023-07-20 at 21 34 34](https://github.com/vasanza/STM32/assets/12642226/403a2232-6ea6-4c9a-b0f1-54bdc53203a7)
 
