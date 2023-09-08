@@ -22,7 +22,11 @@ I2C stands for Inter-Integrated Circuit. It is a bus interface connection protoc
 ## Incorporar las achivos .h de los devices y los drivers
 ![uart4](https://github.com/vasanza/STM32/assets/12642226/61b44ee5-37c9-46fd-9eb7-1eba41dea17b)
 ## Escribir el codigo a utilizar
-![image](https://github.com/vasanza/STM32/assets/62295761/8b4fdbd9-1180-4574-8c08-e5cfd187b665)
+![image](https://github.com/vasanza/STM32/assets/62295761/1ea4694e-0f4f-4e3f-abb3-8bf3b4791871)
 
-## Compilar
-![uart5](https://github.com/vasanza/STM32/assets/12642226/d5026045-6802-4261-adee-c62b8f50cf1e)
+## Compilar .h
+![image](https://github.com/vasanza/STM32/assets/62295761/21820a64-a310-4e7d-b347-5d91b67d1522)
+![image](https://github.com/vasanza/STM32/assets/62295761/5896ea35-e5bc-470a-b3ce-b86b4d1d1513)
+![image](https://github.com/vasanza/STM32/assets/62295761/8e377fec-c90f-4bc0-8fed-94d2eb9c3902)
+![image](https://github.com/vasanza/STM32/assets/62295761/d301643c-a281-405f-b540-4ea996bf2317)
+
