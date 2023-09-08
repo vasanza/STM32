@@ -1,4 +1,4 @@
-# ⭐⭐⭐⭐⭐ (Arm Cortex-M4) ADC & USART
+# ⭐⭐⭐⭐⭐ (Arm Cortex-M4) I2C
 ## ✅ Developed by: [John Rivera Burgos](https://www.linkedin.com/in/john-rivera-burgos-bb703079/)
 ## ➡️ Device:
 - Development Board: [NUCLEO-F446RE](https://www.st.com/en/evaluation-tools/nucleo-f446re.html)
@@ -12,11 +12,8 @@
 
 ![nucleo](https://github.com/vasanza/STM32/assets/12642226/d1d58c13-dedf-4f7f-9a4d-3b7176690220)
 
-## Práctica ADC & USART
-Sirve para convertir una señal analógica (de tensión o de corriente) en una señal digital, con el propósito de facilitar su procesamiento, así como hacer la señal resultante (digital) más inmune al ruido y otras interferencias a las que son más sensibles las señales analógicas.La práctica de GPIO Led con el modelo NUCLEO-F446RE tiene como objetivo configurar como salida pines de puertos de la tarjeta utilizada el microcontrolador STM32F446RE . El STM32F446RE es un microcontrolador avanzado basado en el núcleo Arm® Cortex®-M4 que opera a una frecuencia de 180 MHz, lo que le permite realizar tareas de procesamiento de datos de manera rápida y eficiente.
-Para llevar a cabo la práctica, se conectarán los pines PORTA.
-
-La práctica de comunicación serial USART es fundamental en aplicaciones donde la transferencia de datos es crítica, actuadores. Con el STM32F446RE y su núcleo Arm® Cortex®-M4, se puede lograr una comunicación serial confiable y rápida, lo que hace que este microcontrolador sea una opción excelente para diversas aplicaciones industriales, de automatización y electrónica embebida. Al dominar la configuración y uso GPIO, los desarrolladores pueden aprovechar al máximo su potencial para implementar sistemas complejos y de alto rendimiento.
+## Práctica I2C
+I2C stands for Inter-Integrated Circuit. It is a bus interface connection protocol incorporated into devices for serial communication. It was originally designed by Philips Semiconductor in 1982. Recently, it is a widely used protocol for short-distance communication.
 
 ## Steps
 ## Seleccion de la tarjeta de desarrollo STM32F446RE
