@@ -33,3 +33,5 @@ I2C stands for Inter-Integrated Circuit. It is a bus interface connection protoc
 
 ![image](https://github.com/vasanza/STM32/assets/62295761/d301643c-a281-405f-b540-4ea996bf2317)
 
+## Debug
+![image](https://github.com/vasanza/STM32/assets/62295761/473dd3e5-8f2a-40c3-8e20-ea16baa69096)
