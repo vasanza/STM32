@@ -71,3 +71,6 @@ Keep in mind that my knowledge is based on information available up until Septem
 
 ## Debug
 ![image](https://github.com/vasanza/STM32/assets/62295761/473dd3e5-8f2a-40c3-8e20-ea16baa69096)
+
+![image](https://github.com/vasanza/STM32/assets/62295761/969a762b-add0-4246-bb32-4bc3057b3dfc)
+
