@@ -1,4 +1,23 @@
+# ⭐⭐⭐⭐⭐ Arm Cortex-M4
+
 Explore the 'ARM Cortex-M4' repository, where innovation meets performance. Powered by the STM32F446RE MCU with an Arm® Cortex®-M4 core operating at 180 MHz, and utilizing the NUCLEO-F446RE development board, this repository is a hub for cutting-edge projects. With the support of STM32CubeIDE, dive into a world of seamless development, unleashing the full potential of this advanced microcontroller. Discover, contribute, and elevate your embedded systems skills in this dynamic community of developers."
+
+## ✅ Developed by: [John Rivera Burgos](https://www.linkedin.com/in/john-rivera-burgos-bb703079/) and [vasanza](https://vasanza.blogspot.com/p/about-me.html)
+## ➡️ Device:
+- Development Board: [NUCLEO-F446RE](https://www.st.com/en/evaluation-tools/nucleo-f446re.html)
+- Processor: [STM32F446RE MCU, Arm® Cortex®-M4 core at 180 Mhz](https://www.st.com/en/microcontrollers-microprocessors/stm32f446re.html)
+
+## ➡️ Compiler:
+- [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
+
+## ⭐ Device provided by:
+- [EcuaPlus](https://www.facebook.com/Ecuapluss/?locale=es_LA)
+
+## ⭐ When using this resource, please cite the original publication:
+- [Avilés-Mendoza, K., Gaibor-León, N. G., Asanza, V., Lorente-Leyva, L. L., & Peluffo-Ordóñez, D. H. (2023). A 3D Printed, Bionic Hand Powered by EMG Signals and Controlled by an Online Neural Network. Biomimetics, 8(2), 255.](https://www.mdpi.com/2313-7673/8/2/255)
+
+---
+![nucleo](https://github.com/vasanza/STM32/assets/12642226/d1d58c13-dedf-4f7f-9a4d-3b7176690220)
 
 # Summary
 - **[USART serial communication - RX](https://github.com/vasanza/STM32/tree/main/2_uart_rx_nucleo)**
