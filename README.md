@@ -2,6 +2,12 @@
 
 Explore the 'ARM Cortex-M4' repository, where innovation meets performance. Powered by the STM32F446RE MCU with an Arm® Cortex®-M4 core operating at 180 MHz, and utilizing the NUCLEO-F446RE development board, this repository is a hub for cutting-edge projects. With the support of STM32CubeIDE, dive into a world of seamless development, unleashing the full potential of this advanced microcontroller. Discover, contribute, and elevate your embedded systems skills in this dynamic community of developers."
 
+## ✅ Summary
+- **[(1) USART serial communication - RX](https://github.com/vasanza/STM32/tree/main/2_uart_rx_nucleo)**
+- [(1) USART serial communication - TX](https://github.com/vasanza/STM32/tree/main/1_usart_tx)
+- [(2) Analog to Digital Converter (ADC)](https://github.com/vasanza/STM32/tree/main/4_adc_nucleo)
+- [(3) Inter-Integrated Circuit (I2C)](https://github.com/vasanza/STM32/tree/main/10_I2C_Nucleo)
+
 ## ✅ Developed by: [John Rivera Burgos](https://www.linkedin.com/in/john-rivera-burgos-bb703079/) and [vasanza](https://vasanza.blogspot.com/p/about-me.html)
 ## ➡️ Device:
 - Development Board: [NUCLEO-F446RE](https://www.st.com/en/evaluation-tools/nucleo-f446re.html)
@@ -18,12 +24,6 @@ Explore the 'ARM Cortex-M4' repository, where innovation meets performance. Powe
 
 ---
 ![nucleo](https://github.com/vasanza/STM32/assets/12642226/d1d58c13-dedf-4f7f-9a4d-3b7176690220)
-
-# Summary
-- **[USART serial communication - RX](https://github.com/vasanza/STM32/tree/main/2_uart_rx_nucleo)**
-- [USART serial communication - TX](https://github.com/vasanza/STM32/tree/main/1_usart_tx)
-- [Analog to Digital Converter (ADC)](https://github.com/vasanza/STM32/tree/main/4_adc_nucleo)
-- [Inter-Integrated Circuit (I2C)](https://github.com/vasanza/STM32/tree/main/10_I2C_Nucleo)
 
 # STM32
 - Modelo: NUCLEO-F446RE
