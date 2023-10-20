@@ -1,5 +1,6 @@
 # Summary
-- **[USART serial communication](https://github.com/vasanza/STM32/tree/main/1_usart_tx)**
+- **[USART serial communication - RX](https://github.com/vasanza/STM32/tree/main/2_uart_rx_nucleo)**
+- [USART serial communication - TX](https://github.com/vasanza/STM32/tree/main/1_usart_tx)
 - [Analog to Digital Converter (ADC)](https://github.com/vasanza/STM32/tree/main/4_adc_nucleo)
 - [Inter-Integrated Circuit (I2C)](https://github.com/vasanza/STM32/tree/main/10_I2C_Nucleo)
 
