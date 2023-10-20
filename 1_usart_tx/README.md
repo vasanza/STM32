@@ -1,5 +1,6 @@
 # ⭐⭐⭐⭐⭐ (Arm Cortex-M4) USART serial communication
 
+## ✅ Video: https://youtu.be/yW7pup6l8F8?si=ox6kFhacKSWmiNJN
 ## ✅ Developed by: [John Rivera Burgos](https://www.linkedin.com/in/john-rivera-burgos-bb703079/) and [vasanza](https://vasanza.blogspot.com/p/about-me.html)
 
 ## ➡️ Device:
