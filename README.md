@@ -1,10 +1,7 @@
-# Next courses
-- https://www.docker.com/
-- https://www.jenkins.io/
-- https://www.influxdata.com/
-- https://grafana.com/
-- OTA
-- https://www.qt.io/
+# Summary
+- **[USART serial communication](https://github.com/vasanza/STM32/tree/main/1_usart_tx)**
+- [Analog to Digital Converter (ADC)](https://github.com/vasanza/STM32/tree/main/4_adc_nucleo)
+- [Inter-Integrated Circuit (I2C)](https://github.com/vasanza/STM32/tree/main/10_I2C_Nucleo)
 
 # STM32
 - Modelo: NUCLEO-F446RE
