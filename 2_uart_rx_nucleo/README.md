@@ -1,14 +1,20 @@
 # ⭐⭐⭐⭐⭐ (Arm Cortex-M4) USART-RX serial communication
+
 ## ✅ Developed by: [John Rivera Burgos](https://www.linkedin.com/in/john-rivera-burgos-bb703079/) and [vasanza](https://vasanza.blogspot.com/p/about-me.html)
+
 ## ➡️ Device:
 - Development Board: [NUCLEO-F446RE](https://www.st.com/en/evaluation-tools/nucleo-f446re.html)
 - Processor: [STM32F446RE MCU, Arm® Cortex®-M4 core at 180 Mhz](https://www.st.com/en/microcontrollers-microprocessors/stm32f446re.html)
+
 ## ➡️ Compiler:
 - [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
+
 ## ⭐ Device provided by:
 - [EcuaPlus](https://www.facebook.com/Ecuapluss/?locale=es_LA)
+
 ## ⭐ When using this resource, please cite the original publication:
 - [Avilés-Mendoza, K., Gaibor-León, N. G., Asanza, V., Lorente-Leyva, L. L., & Peluffo-Ordóñez, D. H. (2023). A 3D Printed, Bionic Hand Powered by EMG Signals and Controlled by an Online Neural Network. Biomimetics, 8(2), 255.](https://www.mdpi.com/2313-7673/8/2/255)
+---
 
 ![nucleo](https://github.com/vasanza/STM32/assets/12642226/d1d58c13-dedf-4f7f-9a4d-3b7176690220)
 
@@ -42,10 +48,12 @@ By mastering the configuration and usage of USART in this model, developers can 
 - Write the code in the corresponding source file. Implement the necessary functions and configurations for USART communication initialization and handling. Ensure adherence to best programming practices.
 
 ![uart](https://github.com/vasanza/STM32/assets/12642226/d03c0476-546a-4f85-8dc6-1f015bf0130c)
+
 ## Compile the Project:
 - Compile the project using the selected development environment (e.g., STM32CubeIDE). Verify there are no compilation errors and the code compiles correctly for the STM32F446RE microcontroller.
 
 ![uart5](https://github.com/vasanza/STM32/assets/12642226/d5026045-6802-4261-adee-c62b8f50cf1e)
+
 ## Data Transmission Tests:
 - Perform data transmission tests to verify bidirectional communication between the microcontroller and the external device. In this step, send and receive data through the USART transmission (TX) and reception (RX) pins.
 
