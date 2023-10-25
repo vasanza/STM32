@@ -15,6 +15,7 @@ Explore the 'ARM Cortex-M4' repository, where innovation meets performance. Powe
 
 ## ➡️ Compiler:
 - [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
+- IDE: STM32CubeIDE 1.11.2
 
 ## ⭐ Device provided by:
 - [EcuaPlus](https://www.facebook.com/Ecuapluss/?locale=es_LA)
@@ -57,10 +58,9 @@ Explore the 'ARM Cortex-M4' repository, where innovation meets performance. Powe
 
 ![WhatsApp Image 2023-07-20 at 21 34 34](https://github.com/vasanza/STM32/assets/12642226/403a2232-6ea6-4c9a-b0f1-54bdc53203a7)
 
-# Development Plan
-## Day1
-- Recursos Iniciales
-- IDE: STM32CubeIDE 1.11.2
+---
+# ⭐ Development Plan
+
 ## UART Comunication
 - Example # 1 UART
 - Detail:
