@@ -71,9 +71,11 @@ Using the folling kit:
 - Ball Switch
 - Tracking sensor module
 - [KY-031 Knock Sensor module](https://arduinomodules.info/ky-031-knock-sensor-module/)
-  ![image](https://github.com/vasanza/STM32/assets/12642226/e02a9fb8-60c8-40ac-ac70-24d195247858)
+![image](https://github.com/vasanza/STM32/assets/12642226/e02a9fb8-60c8-40ac-ac70-24d195247858)
 
 - [KY-021 Magnetic Reed Switch](https://arduinomodules.info/ky-021-mini-magnetic-reed-switch-module/)
+![image](https://github.com/vasanza/STM32/assets/12642226/e209aeae-ab4f-48aa-a968-66e3afa18b17)
+
 - [KY-036 Metal Touch Sensor Module](https://arduinomodules.info/ky-036-metal-touch-sensor-module/)
 ## Digital Outputs
 - Led
@@ -87,7 +89,7 @@ Using the folling kit:
 - LDR
 - Joystick
 - [KY-028 Digital Temperature Sensor](https://arduinomodules.info/ky-028-digital-temperature-sensor-module/)
-  ![image](https://github.com/vasanza/STM32/assets/12642226/11b253e8-bba9-4589-a3fe-95cefdfd92b6)
+![image](https://github.com/vasanza/STM32/assets/12642226/11b253e8-bba9-4589-a3fe-95cefdfd92b6)
 
 ## PWM
 - Led
