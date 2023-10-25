@@ -94,6 +94,15 @@ Using the folling kit:
 
 ![image](https://github.com/vasanza/STM32/assets/12642226/11b253e8-bba9-4589-a3fe-95cefdfd92b6)
 
+- [KY-026 Flame Sensor module](https://arduinomodules.info/ky-026-flame-sensor-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/974a81f2-4ada-4545-be42-907d0a69b230)
+
+- [KY-025 Reed Switch Module](https://arduinomodules.info/ky-025-reed-switch-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/0177ccff-081d-4531-9d39-03bc4d9af564)
+
+ 
 ## PWM
 - Led
 - Buzzer
