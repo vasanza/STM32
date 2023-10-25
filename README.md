@@ -65,10 +65,22 @@ Using the folling kit:
 
 
 ## Digital Inputs
-- Button or Switch
-- Touch sensor
-- Shock sensor
-- Ball Switch
+- [KY-004 Key Switch Module](https://arduinomodules.info/ky-004-key-switch-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/32c6c77e-4aa4-4bfe-908a-b615881e6655)
+
+- [KY-003 Hall Magnetic Sensor module](https://arduinomodules.info/ky-003-hall-magnetic-sensor-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/d2e903ed-1748-4dbe-ab9d-b8f37e8f9d7f)
+
+- [KY-017 Mercury Tilt Switch module](https://arduinomodules.info/ky-017-mercury-switch-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/9c2fa7df-89b9-4978-9c8f-10faeb030a38)
+
+- [KY-020 Tilt Switch Sensor module](https://arduinomodules.info/ky-020-tilt-switch-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/3da2d923-9971-49bf-b5a4-a5156ed81066)
+
 - Tracking sensor module
 - [KY-031 Knock Sensor module](https://arduinomodules.info/ky-031-knock-sensor-module/)
 
@@ -79,20 +91,69 @@ Using the folling kit:
 ![image](https://github.com/vasanza/STM32/assets/12642226/e209aeae-ab4f-48aa-a968-66e3afa18b17)
 
 - [KY-036 Metal Touch Sensor Module](https://arduinomodules.info/ky-036-metal-touch-sensor-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/26516c77-94e9-4571-b836-271cb1d1351f)
+
+- [KY-010 Photo Interrupter module](https://arduinomodules.info/category/switches-input/page/2/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/c98bf591-0816-433d-bed7-ee191d9a8319)
+
+- [KY-002 Vibration Switch Module](https://arduinomodules.info/ky-002-vibration-switch-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/e3949397-060b-498d-a319-54a9fb01082c)
+
+- [KY-033 Line Tracking module](https://arduinomodules.info/ky-033-line-tracking-sensor-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/af27b0f9-2d33-428f-b1c9-48734165b50d)
+
+- [KY-032 Obstacle Avoidance Sensor module](https://arduinomodules.info/ky-032-infrared-obstacle-avoidance-sensor-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/66ac65bc-95c6-4463-9b48-a6f6368b1bd5)
+
+
 ## Digital Outputs
 - Led
-- Buzzer
-- Two color LED
-- RGB LED
-- Laser emit
-- Relay module
+- [KY-034 features a 7 color LED](https://arduinomodules.info/ky-034-automatic-flashing-color-led/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/006eb1c0-64db-4686-bd0a-1e715087a99e)
+
+- [KY-012 Active Buzzer module](https://arduinomodules.info/ky-012-active-buzzer-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/3405ed40-8cb4-45f4-b615-d1c200e21d2b)
+
+- [KY-029 Dual Color LED module](https://arduinomodules.info/ky-029-dual-color-led-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/b2724331-6b07-4d93-8a99-ff9f3b173d46)
+
+- [KY-016 Full Color RGB LED](https://arduinomodules.info/ky-016-rgb-full-color-led-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/97d73655-a592-4eab-9bd7-52ce361a60f5)
+
+- [KY-008 Laser Transmitter module](https://arduinomodules.info/ky-008-laser-transmitter-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/3f19920b-7d54-4297-96e3-710006f84ef3)
+
+- [KY-019 Relay Module](https://arduinomodules.info/ky-019-5v-relay-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/cc3859a7-cd38-4231-8c89-875f17f08a16)
+
 - 7-segment Display
 ## ADC
-- LDR
-- Joystick
+- [KY-018 Photoresistor module](https://arduinomodules.info/ky-018-photoresistor-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/20728bf2-3217-45c6-ba37-b1041c1922b7)
+
+- [KY-023 Dual Axis Joystick module](https://arduinomodules.info/ky-023-joystick-dual-axis-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/d98fbabf-0985-41fa-9a3d-91eebc1bb97e)
+
 - [KY-028 Digital Temperature Sensor](https://arduinomodules.info/ky-028-digital-temperature-sensor-module/)
 
 ![image](https://github.com/vasanza/STM32/assets/12642226/11b253e8-bba9-4589-a3fe-95cefdfd92b6)
+
+- [KY-013 Analog Temperature Sensor module](https://arduinomodules.info/ky-013-analog-temperature-sensor-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/a25b9932-a646-4ce1-86ae-39dd4d8d057c)
 
 - [KY-026 Flame Sensor module](https://arduinomodules.info/ky-026-flame-sensor-module/)
 
@@ -102,44 +163,73 @@ Using the folling kit:
 
 ![image](https://github.com/vasanza/STM32/assets/12642226/0177ccff-081d-4531-9d39-03bc4d9af564)
 
- 
+- [KY-035 analog magnetic hall sensor](https://arduinomodules.info/ky-035-analog-hall-magnetic-sensor-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/2e86d43e-3646-4273-ac76-9a5f80a742d7)
+
+- [KY-024 Linear magnetic Hall sensor](https://arduinomodules.info/ky-024-linear-magnetic-hall-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/d7bb6448-b8ac-4a11-8f91-584a314bfeec)
+
+- [KY-037 high sensitivity sound detection module](https://arduinomodules.info/ky-037-high-sensitivity-sound-detection-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/30d25e3d-74a5-4716-8b86-b078b2f7feaa)
+
 ## PWM
 - Led
-- Buzzer
-- Two color LED
-- RGB LED
+- [KY-034 features a 7 color LED](https://arduinomodules.info/ky-034-automatic-flashing-color-led/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/006eb1c0-64db-4686-bd0a-1e715087a99e)
+
+- [KY-012 Active Buzzer module](https://arduinomodules.info/ky-012-active-buzzer-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/3405ed40-8cb4-45f4-b615-d1c200e21d2b)
+
+- [KY-029 Dual Color LED module](https://arduinomodules.info/ky-029-dual-color-led-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/b2724331-6b07-4d93-8a99-ff9f3b173d46)
+
+- [KY-016 Full Color RGB LED](https://arduinomodules.info/ky-016-rgb-full-color-led-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/97d73655-a592-4eab-9bd7-52ce361a60f5)
+
+- [KY-008 Laser Transmitter module](https://arduinomodules.info/ky-008-laser-transmitter-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/3f19920b-7d54-4297-96e3-710006f84ef3)
+
+- [KY-019 Relay Module](https://arduinomodules.info/ky-019-5v-relay-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/cc3859a7-cd38-4231-8c89-875f17f08a16)
+
+- 7-segment Display
+- DC motor
+  
 ## Timing and encoders
-- Avoid sensor
 - Rotary encoders
+
 ## 1 wire comunication
-- Temperature sensor (DS18B20)
-## UART Communication
+- [KY-001 Temperature Sensor Module (DS18B20)](https://arduinomodules.info/ky-001-temperature-sensor-module/)
+
+ ![image](https://github.com/vasanza/STM32/assets/12642226/502bfcc8-79da-4a92-9d66-05d05dab6fc4)
+
+- [KY-015 Temperature and Humidity Sensor module](https://arduinomodules.info/ky-015-temperature-humidity-sensor-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/9d1e6a34-3bc9-4d5f-82e5-8ec4ecbaca79)
+
+## Serial Communication
+- [KY-005 Infrared Transmitter module](https://arduinomodules.info/ky-005-infrared-transmitter-sensor-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/b44a172c-a5ed-4b0a-9aff-12adcca3705d)
+
+- [KY-022 Infrared Receiver module](https://arduinomodules.info/ky-022-infrared-receiver-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/9d2879a4-6b1b-40e2-a409-e9d0f8337721)
+
+- [KY-008 Laser Transmitter module](https://arduinomodules.info/ky-008-laser-transmitter-module/)
+
+![image](https://github.com/vasanza/STM32/assets/12642226/3f19920b-7d54-4297-96e3-710006f84ef3)
 
 ## UART Comunication
-- Example # 1 UART
-- Detail:
---UART1 TX PA9
---UART1 RX PA10
-- Process
--- Clock Source: AHB1, APB1
--- GPIOEN, AF7, UARTEN
-## GPIO
-- Example # 2 GPIO
-- Detail:
---Led blink PA5
-- Process
--- Clock Source: AHB1
--- GPIOEN, MODER, ODR
-## ADC
-- Example # 8 ADC
-- Detail: Use of ADC register for digitalization acquisition of analog signals.
-- Development board: STM32F446RE
-- Processor: Arm® Cortex®-M4 32-bit--ADC PA2
-- Link: https://github.com/vasanza/STM32/tree/main/8_adc_nucleo_cgpt
-## Timer
-- Example # 4 Timer
-- Detail:
---Timer Registers
-- Process
--- Clock Source: AHB1
--- GPIOEN, MODER, ODR
+- Computer interface using all ADC sensors
+- Computer interface using all one Wire sensors
+- Computer interface using all serial communication sensors
