@@ -229,7 +229,7 @@ Using the folling kit:
 
 ![image](https://github.com/vasanza/STM32/assets/12642226/3f19920b-7d54-4297-96e3-710006f84ef3)
 
-## UART Comunication
+## Console user interface
 - Computer interface using all ADC sensors
 - Computer interface using all one Wire sensors
 - Computer interface using all serial communication sensors
